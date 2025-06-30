@@ -39,8 +39,9 @@ class Customer extends User {
         this.cart= new ArrayList<Cart<Item>>();
         this.isSorted=false;
         
+        
     }//constructor
-    //this is a test comment 
+    // this is a conflict comment!!!!
 
      public String getUserName() {
         return userName;
