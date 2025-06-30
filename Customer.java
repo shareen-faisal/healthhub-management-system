@@ -40,7 +40,9 @@ class Customer extends User {
         this.warningSortedBpList = new ArrayList<>();
         this.isSorted=false;
         
+        
     }//constructor
+    // this is a conflict comment
 
      public String getUserName() {
         return userName;
