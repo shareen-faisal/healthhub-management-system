@@ -23,6 +23,7 @@ class Doctor extends User {
         id = count;
         slots = new String[10][10];
     }//Doctor
+    //this is a test comment
 
     Doctor(String name,String number,String address,String password,String gender,int ex,String category,String accNum){
         super(name, number, address, password, gender, accNum, 0);
