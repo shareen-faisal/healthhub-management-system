@@ -32,6 +32,7 @@ Doctors can register, log in, and manage their appointments. Admin users manage 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![DSA](https://img.shields.io/badge/Data%20Structures-Implemented-006400?style=for-the-badge)
 - ![OOP](https://img.shields.io/badge/Object%20Oriented-Programming-008080?style=for-the-badge)
+- ![File Handling](https://img.shields.io/badge/File%20Handling-Implemented-blue?style=for-the-badge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
