@@ -8,11 +8,6 @@
     A console-based Java application that enables online healthcare services including medicine ordering, lab test booking, doctor consultations, and health record management using advanced data structures.
     <br />
     <br />
-    <a href="https://github.com/shareen-faisal/healthhub-management-system">View Project</a>
-    ·
-    <a href="https://github.com/shareen-faisal/healthhub-management-system/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/shareen-faisal/healthhub-management-system/pulls">Request Feature</a>
   </p>
 </div>
 
