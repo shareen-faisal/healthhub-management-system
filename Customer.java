@@ -37,10 +37,11 @@ class Customer extends User {
         this.userName=userName;
         this.BpList = new ArrayList<>();
         this.cart= new ArrayList<Cart<Item>>();
-        this.warningSortedBpList = new ArrayList<>();
         this.isSorted=false;
         
+        
     }//constructor
+    // this is a conflict comment!!!!
 
      public String getUserName() {
         return userName;
