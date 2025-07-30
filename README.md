@@ -113,3 +113,12 @@ cd healthhub-management-system
 javac RunCompany.java
 java RunCompany
 ```
+---
+## 📧 Contact
+
+**Shareen Faisal**  
+🔗 [GitHub](https://github.com/shareen-faisal)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
