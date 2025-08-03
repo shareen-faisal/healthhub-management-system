@@ -16,7 +16,7 @@
 ## 🧠 About The Project
 
 **HealthHub** addresses critical challenges in digital healthcare accessibility. This project allows customers to:
-- Book doctor consultations online
+- Book doctor consultations
 - Order medicines and book lab tests
 - Maintain and monitor blood pressure records
 - Access personalized health suggestions
@@ -73,13 +73,13 @@ Doctors can register, log in, and manage their appointments. Admin users manage 
 
 ## 🧮 Data Structures & Algorithms Used
 
-| Feature                    | Data Structures / Algorithms                      |
-|----------------------------|---------------------------------------------------|
-| Medicines                  | Doubly Linked List                                |
-| Lab Test Booking           | Sorted ArrayList, Binary Search                   |
-| Doctor Consultation        | Nested ArrayList, 2D Array (schedule), PriorityQueue |
-| Blood Pressure Records     | Files, ArrayList, Merge Sort, Binary Search       |
-| Health Plan Suggestions    | Binary Tree                                       |
+| Feature                    | Data Structures / Algorithms                          |
+|----------------------------|-------------------------------------------------------|
+| Medicines                  | Doubly Linked List                                    |
+| Lab Test Booking           | Sorted ArrayList, Binary Search                       |
+| Doctor Consultation        | Nested ArrayList, 2D Array (schedule), PriorityQueue  |
+| Blood Pressure Records     | Files, ArrayList, Merge Sort, Binary Search           |
+| Health Plan Suggestions    | Binary Tree                                           |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
